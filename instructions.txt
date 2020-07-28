@@ -1,0 +1,7 @@
+Required Engine:
+Pytesseract , gTTS
+
+Required library:
+pdf2image, Pillow , OS, playsound
+
+You can change the ranges of pages you want to listen from first_page and last_page argumesnts in pdf2image
